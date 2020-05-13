@@ -2641,3 +2641,8 @@
 		color: #ccc;
 		font-size: small;
 	}
+
+	.small {
+		font-size: smaller;
+		font-weight: bold;
+	}
